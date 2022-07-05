@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kamva Gwadiso
 - 👀 I’m interested in Artificial Intelligence,software development and cyber securtiy.
 - 🌱 I’m currently learning python, javascript,java ,c++ and css.
-- 💞️ I’m looking to collaborate on many projects of mine.
 - 📫 How to reach me search for Kamva Gwadiso in twitter,Instagram and Facebook you'll find me .
 
 <!---
